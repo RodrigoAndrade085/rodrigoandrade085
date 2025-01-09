@@ -36,10 +36,5 @@ Hoje atuo como desenvolvedor mas nunca estou parado no mesmo lugar sempre buscan
   ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoandrade085&hide=TeX&layout=compact&theme=tokyonight)
 
-<details>
-  <summary> <b> Mais sobre meu git? </b> <i> (Click here to expand)</i> </summary>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoandrade085&hide=TeX&layout=compact&theme=tokyonight)
-  
-</details>
