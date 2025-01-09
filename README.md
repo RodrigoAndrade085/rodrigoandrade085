@@ -38,14 +38,7 @@ Hoje atuo como desenvolvedor mas nunca estou parado no mesmo lugar sempre buscan
 
 
 <details>
-  <summary> <b> Want to know more about me? </b> <i> (Click here to expand)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigoandrade085&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
-  </a>
-  
-  <br />
+  <summary> <b> Mais sobre meu git? </b> <i> (Click here to expand)</i> </summary>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoandrade085&hide=TeX&layout=compact&theme=tokyonight)
   
