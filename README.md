@@ -9,12 +9,6 @@
 
 Atuo como Desevolvedor de software, Principalmente, Front-end utilizando ReactJS, em busca de novos desafios a cada linha de codigo sempre gostei muito de aprender e resolver problemas.
 
-Desde Pequeno sempre me interessei em como a coisas funcionavam, muitas vezes abrindo coisas e vendo todos aqueles circuitos e sempre batia a curiosidade o porquer tem que ser daquele jeito, conforme fui crescendo minha curiosidade se mantia, então fiz um curso de manutenção de computadores, ao finalizar cheguei a um ponto onde os problemas sempre era os mesmo das mesmas coisa ou do mesmo jeito acabei achando meio repetitivo tudo aquilo mas não parei por ai.
-
-Entrei em uma escola tecnica de ensino medio onde fiz o curso de informática e la descobrir varias outros ramos na area da tecnologia um deles foi o de Dev onde tudo era mais complexo, no lugar de objetos fisicos tinhamos vituais, como os websites, e tudo aquilo me fascinou pois eu so conhecia o mundo dos hardware e agora um novo mundo era descoberto.
-
-Desde então tentei estudar bastante aquele novo mundo do Desenvolvimento, poucas pessoas da minha sala gostava mas tinha uma minoria que ainda gostava eu era uma delas e durante as aulas ajudavamo os demais que tinha duvidas ate pq era muitos para o professor dar conta, como finalização do curso tinhamos que ir para o estagio onde conseguir minha primeria experiencia no mercado de trabalho e fui vendo como as coisas realmente funcionava, ficava cada vez animado com as novas coisas que tinha a serem descobridas.
-
 Hoje atuo como desenvolvedor mas nunca estou parado no mesmo lugar sempre buscando aprender cada vez mais e de novos desafios para enfrentar, utilizando ReactJs no front e NodeJS estou me solidificando na stack javascript que vem crescendo cada vez mais.
 
 
