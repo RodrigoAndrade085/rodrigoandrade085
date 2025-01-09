@@ -19,8 +19,8 @@ Hoje atuo como desenvolvedor mas nunca estou parado no mesmo lugar sempre buscan
 
 
 - :office_worker: Currently working as JS Developer.
-- :purple_heart: Techs: ReactJs, Node.js, TypeScript, Docker  and many others.
-- :books: Studying JS everyday, the React ecosystem and Node.
+- :purple_heart: Techs: ReactJs, Node.js, TypeScript, Docker and many others.
+- :books: Studying JS.
 
 ---
 
